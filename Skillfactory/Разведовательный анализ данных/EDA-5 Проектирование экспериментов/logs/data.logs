@@ -1,0 +1,7 @@
+INFO: 2023-09-28 10:51:54,008: Data
+INFO: 2023-09-28 11:24:29,512: Data shape (110527, 14)
+INFO: 2023-09-28 11:24:32,526: Percentage of women: 0.653882342398853
+INFO: 2023-09-28 11:24:49,557: Percentage of men: 0.346117657601147
+ERROR: 2023-09-28 11:25:05,068: Data shape is incorrect!
+ERROR: 2023-09-28 11:26:37,642: Data shape is incorrect!
+ERROR: 2023-09-28 11:27:09,207: Data shape is incorrect!
